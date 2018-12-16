@@ -4,4 +4,6 @@
 
 * Created a single level Space-Invaders clone entirely in Racket
   * Using the limited teaching language [Intermediate Student Language with Lambda](https://docs.racket-lang.org/htdp-langs/intermediate-lam.html) (Racket with limitations)
+[![](https://github.com/avp55/Space-Invaders-Racket/blob/master/spaceInvaders.png)](#)
+
  
